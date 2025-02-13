@@ -17,8 +17,9 @@ Flight Route
 Year & Month
 Passenger Type
 📊 Dashboard Preview
-![Dashboard Screenshot](./dashboard_pic1.png)
-![Dashboard Screenshot](./dashboard_pic2.png)
+![Dashboard Screenshot](dashboard%20pic1.jpg)
+![Dashboard Screenshot](dashboard%20pic2.jpg)
+
 
 📂 Dataset & Sources
 Airline operational data
