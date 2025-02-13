@@ -1,22 +1,30 @@
-✈️ High Cloud Airline Analytics
-🚀 Overview
-This project analyzes airline performance using key metrics such as passenger trends, route profitability, on-time performance, and load factor analysis.
+# ✈️ High Cloud Airline Analytics 🚀
 
-📌 Key Insights & Visualizations
-✅ Year-wise Passenger Trends (Line & Area Charts)
-✅ Route-wise Profitability (Bar Chart)
-✅ Load Factor Analysis (Donut Chart)
-✅ On-time Performance vs. Delays (Column Chart)
+## 📌 Overview  
+This project analyzes **airline performance** using key metrics such as:  
+- 📊 **Passenger Trends** (Year-wise)
+- 📈 **Route Profitability**
+- ⏱️ **On-time Performance**
+- 🍩 **Load Factor Analysis**
 
-🔍 How to Use the Dashboard
-1️⃣ Download the Power BI file from this repository.
-2️⃣ Open the file in Power BI Desktop.
-3️⃣ Interact with slicers & filters to analyze:
+---
+## 🎯 **Key Insights & Visualizations**
+✅ **Year-wise Passenger Trends** (Line & Area Charts)  
+✅ **Route-wise Profitability** (Bar Chart)  
+✅ **Load Factor Analysis** (Donut Chart)  
+✅ **On-time Performance vs. Delays** (Column Chart)  
 
-Flight Route
-Year & Month
-Passenger Type
-📊 Dashboard Preview
+---
+## 🛠️ **How to Use the Dashboard**
+1️⃣ **Download** the Power BI file from this repository.  
+2️⃣ **Open** the file in **Power BI Desktop**.  
+3️⃣ **Interact** with slicers & filters to analyze:  
+   - ✈️ Flight Route  
+   - 📅 Year & Month  
+   - 👥 Passenger Type  
+
+---
+##📊 Dashboard Preview
 ![Dashboard Screenshot](dashboard%20pic1.jpg)
 ![Dashboard Screenshot](dashboard%20pic2.jpg)
 
